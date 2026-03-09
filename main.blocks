@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="sSUa,oG4E,sfG=[VXG^$" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="KF@{AHIwkP:U);cE:ZAm"><value name="COND"><shadow type="logic_boolean" id="-h~lKX%L@u@`6TA@v?R$"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_pause" id="=7!wB:(nwJts$6K%WUN+"><value name="pause"><shadow type="timePicker" id="FC8{`A)*Ad3M5m^k5I6j"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="gj,15;ay?s`{B(FV}~4+"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="9=!b}l;;NER/(ITNdJP3"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="s:,^L*;fZ|g-]R:oTX/$"><field name="LEDS">`
+        . # . . # 
+        . # . # . 
+        . # # . . 
+        . # . # . 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="/1d(BDht{hv_!?=A$R_O"><field name="LEDS">`
+        . . # # . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . . # # .
+        `</field><next><block type="device_show_leds" id="myp3PN^OBqN=dU$[$]BK"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Ybphu*X$MG!j[0^n82,5"><field name="LEDS">`
+        . # # . . 
+        . # . # . 
+        . # # . . 
+        . # . # . 
+        . # . . #
+        `</field><next><block type="device_pause" id="QO6sO3WTk!tq7/E.9{$#"><value name="pause"><shadow type="timePicker" id="y(=_EaWfi_BM^5O5O/Wl"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="?u1RjU`KXav*GG/;Q/i1"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
